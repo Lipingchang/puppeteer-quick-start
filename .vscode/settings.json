@@ -1,0 +1,4 @@
+{
+  // 想要切换到node_modules中的typescript服务器 除了设置本条 还要在UI上多设置一下: https://github.com/Microsoft/vscode/issues/42243 
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
