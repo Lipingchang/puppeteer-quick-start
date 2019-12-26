@@ -3,3 +3,6 @@ node_modules/
 dist/
 *.pdf
 *.png
+.DS_Store
+puppeteer.local-chromium/*
+!puppeteer.local-chromium/.gitkeep
